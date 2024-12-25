@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9623progress&label=Profile%20views&color=0e75b6&style=flat" alt="9623progress" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9623progress" alt="9623progress" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@j_26_pragati" target="blank"><img src="https://img.shields.io/twitter/follow/@j_26_pragati?logo=twitter&style=for-the-badge" alt="@j_26_pragati" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/j_26_pragati" target="blank"><img src="https://img.shields.io/twitter/follow/@j_26_pragati?logo=twitter&style=for-the-badge" alt="@j_26_pragati" /></a> </p>
 
 - 🔭 I’m currently working on **Government fund Distribution website by using Blockchain**
 
