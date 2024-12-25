@@ -1,4 +1,4 @@
-<img src="./banner.png" height="350px" alt="banner"/>
+<img src="./banner.png" align="center" height="450px" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Pragati Jadhav</h1>
 <h3 align="center">I am a passionate Software Engineer from India</h3>
